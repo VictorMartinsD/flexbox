@@ -1,0 +1,13 @@
+.container {
+    display:inline-flex;
+    justify-content: space-around;
+    max-width: 1000px;
+    width: 100%;
+}
+.caixa {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: #c5c5c5;
+    margin: 6%;
+}
